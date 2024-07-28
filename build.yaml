@@ -19,4 +19,4 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: eek
+    shield: nox_18
